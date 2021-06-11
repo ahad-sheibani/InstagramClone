@@ -4,5 +4,6 @@ import React from 'react';
 
   
   whyDidYouRender(React, {
+    onlyLogs:true,
     trackAllPureComponents: true,
   });
