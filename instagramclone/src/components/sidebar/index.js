@@ -7,7 +7,6 @@ export default function SideBar(){
     const {
         user:{ docId,fullName,username,userId,following}
     }=useUser()
-        console.log("🚀 ~ file: index.js ~ line 10 ~ SideBar ~ docId", docId)
 
     
     return(

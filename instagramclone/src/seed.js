@@ -21,6 +21,15 @@ export function seedDatabase(firebase) {
         dateCreated: Date.now()
       },
       {
+        userId: 'IXgG9Y44sFOOj9Gewx7XCb7CEDY2',
+        username: 'alireza',
+        fullName: 'alireza ansari',
+        emailAddress: 'alirezaansari@gmail.com',
+        following: ['2','3'],
+        followers: ['C8aoMQoLNzS64MngGamWNmampVp1'],
+        dateCreated: Date.now()
+      },
+      {
         userId: '3',
         username: 'dali',
         fullName: 'Salvador Dalí',
